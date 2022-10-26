@@ -2,4 +2,4 @@ Subject List
 - Github playlist
 - API playlist
 - Laravel playlist
-- JavaScript playlist
+- Flutter playlist
