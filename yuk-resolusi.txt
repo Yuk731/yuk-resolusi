@@ -1,5 +1,7 @@
 Subject List
 - Github playlist
 - API playlist
-- Laravel playlist
+- Laravel playlist 
+  *bikin project
+  *upload project
 - Flutter playlist
